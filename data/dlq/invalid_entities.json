@@ -1,0 +1,1162 @@
+[
+  {
+    "record": {
+      "entity_id": "17d081fb-6e78-4ce3-8c66-7a989acac4f6",
+      "first_name": "Morgan",
+      "last_name": "Singh",
+      "contact_email": "invalid0.example.com",
+      "registration_date": "2022-01-11",
+      "region": "north"
+    },
+    "source_type": "entity",
+    "errors": [
+      {
+        "type": "value_error",
+        "loc": [
+          "contact_email"
+        ],
+        "msg": "value is not a valid email address: An email address must have an @-sign.",
+        "input": "invalid0.example.com",
+        "ctx": {
+          "reason": "An email address must have an @-sign."
+        }
+      }
+    ],
+    "error_message": "value is not a valid email address: An email address must have an @-sign.",
+    "run_id": "9be15690-841f-4fdc-a170-e9b9a31f9ff8",
+    "batch_id": "7ff7e3558a5406cd5e6e2fa72ce8d7ed0097426ab8f49075f04e201d1590562b",
+    "record_fingerprint": "91a38b8467ae7df05a0f55a1c817b2b7797ce73ff532aae92bba06d0e27b1e56",
+    "rejected_at": "2026-10-27T14:45:37.276220+00:00"
+  },
+  {
+    "record": {
+      "entity_id": "20c964f9-97dd-41e3-827f-556a0f1d0403",
+      "first_name": "Taylor",
+      "last_name": "Patel",
+      "contact_email": "invalid1.example.com",
+      "registration_date": "2022-01-12",
+      "region": "South"
+    },
+    "source_type": "entity",
+    "errors": [
+      {
+        "type": "value_error",
+        "loc": [
+          "contact_email"
+        ],
+        "msg": "value is not a valid email address: An email address must have an @-sign.",
+        "input": "invalid1.example.com",
+        "ctx": {
+          "reason": "An email address must have an @-sign."
+        }
+      }
+    ],
+    "error_message": "value is not a valid email address: An email address must have an @-sign.",
+    "run_id": "9be15690-841f-4fdc-a170-e9b9a31f9ff8",
+    "batch_id": "7ff7e3558a5406cd5e6e2fa72ce8d7ed0097426ab8f49075f04e201d1590562b",
+    "record_fingerprint": "6af25cc1c9d77a34dcd219f42f2d408b9fdb7a1d3cd8d0bd474c4f0a957cc3f8",
+    "rejected_at": "2026-10-27T14:45:37.276220+00:00"
+  },
+  {
+    "record": {
+      "entity_id": "a57245b9-b070-4270-ac8d-eb66a50b26fe",
+      "first_name": "Avery",
+      "last_name": "Shah",
+      "contact_email": "invalid2.example.com",
+      "registration_date": "2022-01-13",
+      "region": "east"
+    },
+    "source_type": "entity",
+    "errors": [
+      {
+        "type": "value_error",
+        "loc": [
+          "contact_email"
+        ],
+        "msg": "value is not a valid email address: An email address must have an @-sign.",
+        "input": "invalid2.example.com",
+        "ctx": {
+          "reason": "An email address must have an @-sign."
+        }
+      }
+    ],
+    "error_message": "value is not a valid email address: An email address must have an @-sign.",
+    "run_id": "9be15690-841f-4fdc-a170-e9b9a31f9ff8",
+    "batch_id": "7ff7e3558a5406cd5e6e2fa72ce8d7ed0097426ab8f49075f04e201d1590562b",
+    "record_fingerprint": "e3d0139fa6b3494cf02093570b98e44ba11fafacf2ef7f8f119fe3b4ab8e3900",
+    "rejected_at": "2026-10-27T14:45:37.276220+00:00"
+  },
+  {
+    "record": {
+      "entity_id": "804f96c1-85db-435c-972e-23662a94a1c9",
+      "first_name": "Jordan",
+      "last_name": "Kim",
+      "contact_email": "invalid3.example.com",
+      "registration_date": "2022-01-14",
+      "region": "West"
+    },
+    "source_type": "entity",
+    "errors": [
+      {
+        "type": "value_error",
+        "loc": [
+          "contact_email"
+        ],
+        "msg": "value is not a valid email address: An email address must have an @-sign.",
+        "input": "invalid3.example.com",
+        "ctx": {
+          "reason": "An email address must have an @-sign."
+        }
+      }
+    ],
+    "error_message": "value is not a valid email address: An email address must have an @-sign.",
+    "run_id": "9be15690-841f-4fdc-a170-e9b9a31f9ff8",
+    "batch_id": "7ff7e3558a5406cd5e6e2fa72ce8d7ed0097426ab8f49075f04e201d1590562b",
+    "record_fingerprint": "8041e14bb7b0f1f6377c466140212bfc279bc50216230f72cf89704bdac497d0",
+    "rejected_at": "2026-10-27T14:45:37.276220+00:00"
+  },
+  {
+    "record": {
+      "entity_id": "78623004-80f0-4798-87dd-05123e9da4e8",
+      "first_name": "Morgan",
+      "last_name": "Singh",
+      "contact_email": "invalid4.example.com",
+      "registration_date": "2022-01-15",
+      "region": "central"
+    },
+    "source_type": "entity",
+    "errors": [
+      {
+        "type": "value_error",
+        "loc": [
+          "contact_email"
+        ],
+        "msg": "value is not a valid email address: An email address must have an @-sign.",
+        "input": "invalid4.example.com",
+        "ctx": {
+          "reason": "An email address must have an @-sign."
+        }
+      }
+    ],
+    "error_message": "value is not a valid email address: An email address must have an @-sign.",
+    "run_id": "9be15690-841f-4fdc-a170-e9b9a31f9ff8",
+    "batch_id": "7ff7e3558a5406cd5e6e2fa72ce8d7ed0097426ab8f49075f04e201d1590562b",
+    "record_fingerprint": "6ec7cfc2688edac37a4615798f114a5bc9fed58e3b13c87d3f01895cf54f29ae",
+    "rejected_at": "2026-10-27T14:45:37.276220+00:00"
+  },
+  {
+    "record": {
+      "entity_id": "1d63425e-0730-43c1-a590-49fc2409af4e",
+      "first_name": "Taylor",
+      "last_name": "Patel",
+      "contact_email": "invalid5.example.com",
+      "registration_date": "2022-01-16",
+      "region": "north"
+    },
+    "source_type": "entity",
+    "errors": [
+      {
+        "type": "value_error",
+        "loc": [
+          "contact_email"
+        ],
+        "msg": "value is not a valid email address: An email address must have an @-sign.",
+        "input": "invalid5.example.com",
+        "ctx": {
+          "reason": "An email address must have an @-sign."
+        }
+      }
+    ],
+    "error_message": "value is not a valid email address: An email address must have an @-sign.",
+    "run_id": "9be15690-841f-4fdc-a170-e9b9a31f9ff8",
+    "batch_id": "7ff7e3558a5406cd5e6e2fa72ce8d7ed0097426ab8f49075f04e201d1590562b",
+    "record_fingerprint": "99b14f7ca0a75041be5e88206e7fda28269c1358d90b578a68f00b545f587384",
+    "rejected_at": "2026-10-27T14:45:37.276220+00:00"
+  },
+  {
+    "record": {
+      "entity_id": "8926627a-e7cd-4422-8da0-09fd96373c3b",
+      "first_name": "Avery",
+      "last_name": "Shah",
+      "contact_email": "invalid6.example.com",
+      "registration_date": "2022-01-17",
+      "region": "South"
+    },
+    "source_type": "entity",
+    "errors": [
+      {
+        "type": "value_error",
+        "loc": [
+          "contact_email"
+        ],
+        "msg": "value is not a valid email address: An email address must have an @-sign.",
+        "input": "invalid6.example.com",
+        "ctx": {
+          "reason": "An email address must have an @-sign."
+        }
+      }
+    ],
+    "error_message": "value is not a valid email address: An email address must have an @-sign.",
+    "run_id": "9be15690-841f-4fdc-a170-e9b9a31f9ff8",
+    "batch_id": "7ff7e3558a5406cd5e6e2fa72ce8d7ed0097426ab8f49075f04e201d1590562b",
+    "record_fingerprint": "030b2f25b0c02f062a8a719d64be7e116402f85f2d7830a73ed2c527bf85aebd",
+    "rejected_at": "2026-10-27T14:45:37.276220+00:00"
+  },
+  {
+    "record": {
+      "entity_id": "4ae03629-81ef-49ed-8dac-182fa3ffc934",
+      "first_name": "Jordan",
+      "last_name": "Kim",
+      "contact_email": "invalid7.example.com",
+      "registration_date": "2022-01-18",
+      "region": "east"
+    },
+    "source_type": "entity",
+    "errors": [
+      {
+        "type": "value_error",
+        "loc": [
+          "contact_email"
+        ],
+        "msg": "value is not a valid email address: An email address must have an @-sign.",
+        "input": "invalid7.example.com",
+        "ctx": {
+          "reason": "An email address must have an @-sign."
+        }
+      }
+    ],
+    "error_message": "value is not a valid email address: An email address must have an @-sign.",
+    "run_id": "9be15690-841f-4fdc-a170-e9b9a31f9ff8",
+    "batch_id": "7ff7e3558a5406cd5e6e2fa72ce8d7ed0097426ab8f49075f04e201d1590562b",
+    "record_fingerprint": "1998da24b527f952523771d24e7abc0e98c3fbbc8984fc68ed62fa37b4911cfe",
+    "rejected_at": "2026-10-27T14:45:37.276220+00:00"
+  },
+  {
+    "record": {
+      "entity_id": "c21828ef-66fc-48a2-a3f9-2dad1c015841",
+      "first_name": "Morgan",
+      "last_name": "Singh",
+      "contact_email": "invalid8.example.com",
+      "registration_date": "2022-01-19",
+      "region": "West"
+    },
+    "source_type": "entity",
+    "errors": [
+      {
+        "type": "value_error",
+        "loc": [
+          "contact_email"
+        ],
+        "msg": "value is not a valid email address: An email address must have an @-sign.",
+        "input": "invalid8.example.com",
+        "ctx": {
+          "reason": "An email address must have an @-sign."
+        }
+      }
+    ],
+    "error_message": "value is not a valid email address: An email address must have an @-sign.",
+    "run_id": "9be15690-841f-4fdc-a170-e9b9a31f9ff8",
+    "batch_id": "7ff7e3558a5406cd5e6e2fa72ce8d7ed0097426ab8f49075f04e201d1590562b",
+    "record_fingerprint": "5645056f2d9fde2d2dd4783d947456f5c3b952ec3c98041e20b919608e0e761e",
+    "rejected_at": "2026-10-27T14:45:37.276220+00:00"
+  },
+  {
+    "record": {
+      "entity_id": "dc198958-e51c-4b13-b085-954aa0de60be",
+      "first_name": "Taylor",
+      "last_name": "Patel",
+      "contact_email": "invalid9.example.com",
+      "registration_date": "2022-01-20",
+      "region": "central"
+    },
+    "source_type": "entity",
+    "errors": [
+      {
+        "type": "value_error",
+        "loc": [
+          "contact_email"
+        ],
+        "msg": "value is not a valid email address: An email address must have an @-sign.",
+        "input": "invalid9.example.com",
+        "ctx": {
+          "reason": "An email address must have an @-sign."
+        }
+      }
+    ],
+    "error_message": "value is not a valid email address: An email address must have an @-sign.",
+    "run_id": "9be15690-841f-4fdc-a170-e9b9a31f9ff8",
+    "batch_id": "7ff7e3558a5406cd5e6e2fa72ce8d7ed0097426ab8f49075f04e201d1590562b",
+    "record_fingerprint": "74399c7f5885a8d4af55a59be6db685caa3d6f815f379734fb4de4f25017baeb",
+    "rejected_at": "2026-10-27T14:45:37.276220+00:00"
+  },
+  {
+    "record": {
+      "entity_id": "17d081fb-6e78-4ce3-8c66-7a989acac4f6",
+      "first_name": "Morgan",
+      "last_name": "Singh",
+      "contact_email": "invalid0.example.com",
+      "registration_date": "2022-01-11",
+      "region": "north"
+    },
+    "source_type": "entity",
+    "errors": [
+      {
+        "type": "value_error",
+        "loc": [
+          "contact_email"
+        ],
+        "msg": "value is not a valid email address: An email address must have an @-sign.",
+        "input": "invalid0.example.com",
+        "ctx": {
+          "reason": "An email address must have an @-sign."
+        }
+      }
+    ],
+    "error_message": "value is not a valid email address: An email address must have an @-sign.",
+    "run_id": "0499706b-f976-43c0-98bf-51f18e3fd6d0",
+    "batch_id": "20dcbddd21b9bb86795263a0aa9658ce72fec2aab4fb1760b8755196fb1f56b4",
+    "record_fingerprint": "91a38b8467ae7df05a0f55a1c817b2b7797ce73ff532aae92bba06d0e27b1e56",
+    "rejected_at": "2026-10-27T14:49:33.223418+00:00"
+  },
+  {
+    "record": {
+      "entity_id": "20c964f9-97dd-41e3-827f-556a0f1d0403",
+      "first_name": "Taylor",
+      "last_name": "Patel",
+      "contact_email": "invalid1.example.com",
+      "registration_date": "2022-01-12",
+      "region": "South"
+    },
+    "source_type": "entity",
+    "errors": [
+      {
+        "type": "value_error",
+        "loc": [
+          "contact_email"
+        ],
+        "msg": "value is not a valid email address: An email address must have an @-sign.",
+        "input": "invalid1.example.com",
+        "ctx": {
+          "reason": "An email address must have an @-sign."
+        }
+      }
+    ],
+    "error_message": "value is not a valid email address: An email address must have an @-sign.",
+    "run_id": "0499706b-f976-43c0-98bf-51f18e3fd6d0",
+    "batch_id": "20dcbddd21b9bb86795263a0aa9658ce72fec2aab4fb1760b8755196fb1f56b4",
+    "record_fingerprint": "6af25cc1c9d77a34dcd219f42f2d408b9fdb7a1d3cd8d0bd474c4f0a957cc3f8",
+    "rejected_at": "2026-10-27T14:49:33.223418+00:00"
+  },
+  {
+    "record": {
+      "entity_id": "a57245b9-b070-4270-ac8d-eb66a50b26fe",
+      "first_name": "Avery",
+      "last_name": "Shah",
+      "contact_email": "invalid2.example.com",
+      "registration_date": "2022-01-13",
+      "region": "east"
+    },
+    "source_type": "entity",
+    "errors": [
+      {
+        "type": "value_error",
+        "loc": [
+          "contact_email"
+        ],
+        "msg": "value is not a valid email address: An email address must have an @-sign.",
+        "input": "invalid2.example.com",
+        "ctx": {
+          "reason": "An email address must have an @-sign."
+        }
+      }
+    ],
+    "error_message": "value is not a valid email address: An email address must have an @-sign.",
+    "run_id": "0499706b-f976-43c0-98bf-51f18e3fd6d0",
+    "batch_id": "20dcbddd21b9bb86795263a0aa9658ce72fec2aab4fb1760b8755196fb1f56b4",
+    "record_fingerprint": "e3d0139fa6b3494cf02093570b98e44ba11fafacf2ef7f8f119fe3b4ab8e3900",
+    "rejected_at": "2026-10-27T14:49:33.223418+00:00"
+  },
+  {
+    "record": {
+      "entity_id": "804f96c1-85db-435c-972e-23662a94a1c9",
+      "first_name": "Jordan",
+      "last_name": "Kim",
+      "contact_email": "invalid3.example.com",
+      "registration_date": "2022-01-14",
+      "region": "West"
+    },
+    "source_type": "entity",
+    "errors": [
+      {
+        "type": "value_error",
+        "loc": [
+          "contact_email"
+        ],
+        "msg": "value is not a valid email address: An email address must have an @-sign.",
+        "input": "invalid3.example.com",
+        "ctx": {
+          "reason": "An email address must have an @-sign."
+        }
+      }
+    ],
+    "error_message": "value is not a valid email address: An email address must have an @-sign.",
+    "run_id": "0499706b-f976-43c0-98bf-51f18e3fd6d0",
+    "batch_id": "20dcbddd21b9bb86795263a0aa9658ce72fec2aab4fb1760b8755196fb1f56b4",
+    "record_fingerprint": "8041e14bb7b0f1f6377c466140212bfc279bc50216230f72cf89704bdac497d0",
+    "rejected_at": "2026-10-27T14:49:33.223418+00:00"
+  },
+  {
+    "record": {
+      "entity_id": "78623004-80f0-4798-87dd-05123e9da4e8",
+      "first_name": "Morgan",
+      "last_name": "Singh",
+      "contact_email": "invalid4.example.com",
+      "registration_date": "2022-01-15",
+      "region": "central"
+    },
+    "source_type": "entity",
+    "errors": [
+      {
+        "type": "value_error",
+        "loc": [
+          "contact_email"
+        ],
+        "msg": "value is not a valid email address: An email address must have an @-sign.",
+        "input": "invalid4.example.com",
+        "ctx": {
+          "reason": "An email address must have an @-sign."
+        }
+      }
+    ],
+    "error_message": "value is not a valid email address: An email address must have an @-sign.",
+    "run_id": "0499706b-f976-43c0-98bf-51f18e3fd6d0",
+    "batch_id": "20dcbddd21b9bb86795263a0aa9658ce72fec2aab4fb1760b8755196fb1f56b4",
+    "record_fingerprint": "6ec7cfc2688edac37a4615798f114a5bc9fed58e3b13c87d3f01895cf54f29ae",
+    "rejected_at": "2026-10-27T14:49:33.223418+00:00"
+  },
+  {
+    "record": {
+      "entity_id": "1d63425e-0730-43c1-a590-49fc2409af4e",
+      "first_name": "Taylor",
+      "last_name": "Patel",
+      "contact_email": "invalid5.example.com",
+      "registration_date": "2022-01-16",
+      "region": "north"
+    },
+    "source_type": "entity",
+    "errors": [
+      {
+        "type": "value_error",
+        "loc": [
+          "contact_email"
+        ],
+        "msg": "value is not a valid email address: An email address must have an @-sign.",
+        "input": "invalid5.example.com",
+        "ctx": {
+          "reason": "An email address must have an @-sign."
+        }
+      }
+    ],
+    "error_message": "value is not a valid email address: An email address must have an @-sign.",
+    "run_id": "0499706b-f976-43c0-98bf-51f18e3fd6d0",
+    "batch_id": "20dcbddd21b9bb86795263a0aa9658ce72fec2aab4fb1760b8755196fb1f56b4",
+    "record_fingerprint": "99b14f7ca0a75041be5e88206e7fda28269c1358d90b578a68f00b545f587384",
+    "rejected_at": "2026-10-27T14:49:33.223418+00:00"
+  },
+  {
+    "record": {
+      "entity_id": "8926627a-e7cd-4422-8da0-09fd96373c3b",
+      "first_name": "Avery",
+      "last_name": "Shah",
+      "contact_email": "invalid6.example.com",
+      "registration_date": "2022-01-17",
+      "region": "South"
+    },
+    "source_type": "entity",
+    "errors": [
+      {
+        "type": "value_error",
+        "loc": [
+          "contact_email"
+        ],
+        "msg": "value is not a valid email address: An email address must have an @-sign.",
+        "input": "invalid6.example.com",
+        "ctx": {
+          "reason": "An email address must have an @-sign."
+        }
+      }
+    ],
+    "error_message": "value is not a valid email address: An email address must have an @-sign.",
+    "run_id": "0499706b-f976-43c0-98bf-51f18e3fd6d0",
+    "batch_id": "20dcbddd21b9bb86795263a0aa9658ce72fec2aab4fb1760b8755196fb1f56b4",
+    "record_fingerprint": "030b2f25b0c02f062a8a719d64be7e116402f85f2d7830a73ed2c527bf85aebd",
+    "rejected_at": "2026-10-27T14:49:33.223418+00:00"
+  },
+  {
+    "record": {
+      "entity_id": "4ae03629-81ef-49ed-8dac-182fa3ffc934",
+      "first_name": "Jordan",
+      "last_name": "Kim",
+      "contact_email": "invalid7.example.com",
+      "registration_date": "2022-01-18",
+      "region": "east"
+    },
+    "source_type": "entity",
+    "errors": [
+      {
+        "type": "value_error",
+        "loc": [
+          "contact_email"
+        ],
+        "msg": "value is not a valid email address: An email address must have an @-sign.",
+        "input": "invalid7.example.com",
+        "ctx": {
+          "reason": "An email address must have an @-sign."
+        }
+      }
+    ],
+    "error_message": "value is not a valid email address: An email address must have an @-sign.",
+    "run_id": "0499706b-f976-43c0-98bf-51f18e3fd6d0",
+    "batch_id": "20dcbddd21b9bb86795263a0aa9658ce72fec2aab4fb1760b8755196fb1f56b4",
+    "record_fingerprint": "1998da24b527f952523771d24e7abc0e98c3fbbc8984fc68ed62fa37b4911cfe",
+    "rejected_at": "2026-10-27T14:49:33.223418+00:00"
+  },
+  {
+    "record": {
+      "entity_id": "c21828ef-66fc-48a2-a3f9-2dad1c015841",
+      "first_name": "Morgan",
+      "last_name": "Singh",
+      "contact_email": "invalid8.example.com",
+      "registration_date": "2022-01-19",
+      "region": "West"
+    },
+    "source_type": "entity",
+    "errors": [
+      {
+        "type": "value_error",
+        "loc": [
+          "contact_email"
+        ],
+        "msg": "value is not a valid email address: An email address must have an @-sign.",
+        "input": "invalid8.example.com",
+        "ctx": {
+          "reason": "An email address must have an @-sign."
+        }
+      }
+    ],
+    "error_message": "value is not a valid email address: An email address must have an @-sign.",
+    "run_id": "0499706b-f976-43c0-98bf-51f18e3fd6d0",
+    "batch_id": "20dcbddd21b9bb86795263a0aa9658ce72fec2aab4fb1760b8755196fb1f56b4",
+    "record_fingerprint": "5645056f2d9fde2d2dd4783d947456f5c3b952ec3c98041e20b919608e0e761e",
+    "rejected_at": "2026-10-27T14:49:33.223418+00:00"
+  },
+  {
+    "record": {
+      "entity_id": "dc198958-e51c-4b13-b085-954aa0de60be",
+      "first_name": "Taylor",
+      "last_name": "Patel",
+      "contact_email": "invalid9.example.com",
+      "registration_date": "2022-01-20",
+      "region": "central"
+    },
+    "source_type": "entity",
+    "errors": [
+      {
+        "type": "value_error",
+        "loc": [
+          "contact_email"
+        ],
+        "msg": "value is not a valid email address: An email address must have an @-sign.",
+        "input": "invalid9.example.com",
+        "ctx": {
+          "reason": "An email address must have an @-sign."
+        }
+      }
+    ],
+    "error_message": "value is not a valid email address: An email address must have an @-sign.",
+    "run_id": "0499706b-f976-43c0-98bf-51f18e3fd6d0",
+    "batch_id": "20dcbddd21b9bb86795263a0aa9658ce72fec2aab4fb1760b8755196fb1f56b4",
+    "record_fingerprint": "74399c7f5885a8d4af55a59be6db685caa3d6f815f379734fb4de4f25017baeb",
+    "rejected_at": "2026-10-27T14:49:33.223418+00:00"
+  },
+  {
+    "record": {
+      "entity_id": "17d081fb-6e78-4ce3-8c66-7a989acac4f6",
+      "first_name": "Morgan",
+      "last_name": "Singh",
+      "contact_email": "invalid0.example.com",
+      "registration_date": "2022-01-11",
+      "region": "north"
+    },
+    "source_type": "entity",
+    "errors": [
+      {
+        "type": "value_error",
+        "loc": [
+          "contact_email"
+        ],
+        "msg": "value is not a valid email address: An email address must have an @-sign.",
+        "input": "invalid0.example.com",
+        "ctx": {
+          "reason": "An email address must have an @-sign."
+        }
+      }
+    ],
+    "error_message": "value is not a valid email address: An email address must have an @-sign.",
+    "run_id": "35c5ef11-ff04-44e0-9b05-e5c6be92a3a0",
+    "batch_id": "20dcbddd21b9bb86795263a0aa9658ce72fec2aab4fb1760b8755196fb1f56b4",
+    "record_fingerprint": "91a38b8467ae7df05a0f55a1c817b2b7797ce73ff532aae92bba06d0e27b1e56",
+    "rejected_at": "2026-10-27T14:58:08.230465+00:00"
+  },
+  {
+    "record": {
+      "entity_id": "20c964f9-97dd-41e3-827f-556a0f1d0403",
+      "first_name": "Taylor",
+      "last_name": "Patel",
+      "contact_email": "invalid1.example.com",
+      "registration_date": "2022-01-12",
+      "region": "South"
+    },
+    "source_type": "entity",
+    "errors": [
+      {
+        "type": "value_error",
+        "loc": [
+          "contact_email"
+        ],
+        "msg": "value is not a valid email address: An email address must have an @-sign.",
+        "input": "invalid1.example.com",
+        "ctx": {
+          "reason": "An email address must have an @-sign."
+        }
+      }
+    ],
+    "error_message": "value is not a valid email address: An email address must have an @-sign.",
+    "run_id": "35c5ef11-ff04-44e0-9b05-e5c6be92a3a0",
+    "batch_id": "20dcbddd21b9bb86795263a0aa9658ce72fec2aab4fb1760b8755196fb1f56b4",
+    "record_fingerprint": "6af25cc1c9d77a34dcd219f42f2d408b9fdb7a1d3cd8d0bd474c4f0a957cc3f8",
+    "rejected_at": "2026-10-27T14:58:08.230465+00:00"
+  },
+  {
+    "record": {
+      "entity_id": "a57245b9-b070-4270-ac8d-eb66a50b26fe",
+      "first_name": "Avery",
+      "last_name": "Shah",
+      "contact_email": "invalid2.example.com",
+      "registration_date": "2022-01-13",
+      "region": "east"
+    },
+    "source_type": "entity",
+    "errors": [
+      {
+        "type": "value_error",
+        "loc": [
+          "contact_email"
+        ],
+        "msg": "value is not a valid email address: An email address must have an @-sign.",
+        "input": "invalid2.example.com",
+        "ctx": {
+          "reason": "An email address must have an @-sign."
+        }
+      }
+    ],
+    "error_message": "value is not a valid email address: An email address must have an @-sign.",
+    "run_id": "35c5ef11-ff04-44e0-9b05-e5c6be92a3a0",
+    "batch_id": "20dcbddd21b9bb86795263a0aa9658ce72fec2aab4fb1760b8755196fb1f56b4",
+    "record_fingerprint": "e3d0139fa6b3494cf02093570b98e44ba11fafacf2ef7f8f119fe3b4ab8e3900",
+    "rejected_at": "2026-10-27T14:58:08.230465+00:00"
+  },
+  {
+    "record": {
+      "entity_id": "804f96c1-85db-435c-972e-23662a94a1c9",
+      "first_name": "Jordan",
+      "last_name": "Kim",
+      "contact_email": "invalid3.example.com",
+      "registration_date": "2022-01-14",
+      "region": "West"
+    },
+    "source_type": "entity",
+    "errors": [
+      {
+        "type": "value_error",
+        "loc": [
+          "contact_email"
+        ],
+        "msg": "value is not a valid email address: An email address must have an @-sign.",
+        "input": "invalid3.example.com",
+        "ctx": {
+          "reason": "An email address must have an @-sign."
+        }
+      }
+    ],
+    "error_message": "value is not a valid email address: An email address must have an @-sign.",
+    "run_id": "35c5ef11-ff04-44e0-9b05-e5c6be92a3a0",
+    "batch_id": "20dcbddd21b9bb86795263a0aa9658ce72fec2aab4fb1760b8755196fb1f56b4",
+    "record_fingerprint": "8041e14bb7b0f1f6377c466140212bfc279bc50216230f72cf89704bdac497d0",
+    "rejected_at": "2026-10-27T14:58:08.230465+00:00"
+  },
+  {
+    "record": {
+      "entity_id": "78623004-80f0-4798-87dd-05123e9da4e8",
+      "first_name": "Morgan",
+      "last_name": "Singh",
+      "contact_email": "invalid4.example.com",
+      "registration_date": "2022-01-15",
+      "region": "central"
+    },
+    "source_type": "entity",
+    "errors": [
+      {
+        "type": "value_error",
+        "loc": [
+          "contact_email"
+        ],
+        "msg": "value is not a valid email address: An email address must have an @-sign.",
+        "input": "invalid4.example.com",
+        "ctx": {
+          "reason": "An email address must have an @-sign."
+        }
+      }
+    ],
+    "error_message": "value is not a valid email address: An email address must have an @-sign.",
+    "run_id": "35c5ef11-ff04-44e0-9b05-e5c6be92a3a0",
+    "batch_id": "20dcbddd21b9bb86795263a0aa9658ce72fec2aab4fb1760b8755196fb1f56b4",
+    "record_fingerprint": "6ec7cfc2688edac37a4615798f114a5bc9fed58e3b13c87d3f01895cf54f29ae",
+    "rejected_at": "2026-10-27T14:58:08.235780+00:00"
+  },
+  {
+    "record": {
+      "entity_id": "1d63425e-0730-43c1-a590-49fc2409af4e",
+      "first_name": "Taylor",
+      "last_name": "Patel",
+      "contact_email": "invalid5.example.com",
+      "registration_date": "2022-01-16",
+      "region": "north"
+    },
+    "source_type": "entity",
+    "errors": [
+      {
+        "type": "value_error",
+        "loc": [
+          "contact_email"
+        ],
+        "msg": "value is not a valid email address: An email address must have an @-sign.",
+        "input": "invalid5.example.com",
+        "ctx": {
+          "reason": "An email address must have an @-sign."
+        }
+      }
+    ],
+    "error_message": "value is not a valid email address: An email address must have an @-sign.",
+    "run_id": "35c5ef11-ff04-44e0-9b05-e5c6be92a3a0",
+    "batch_id": "20dcbddd21b9bb86795263a0aa9658ce72fec2aab4fb1760b8755196fb1f56b4",
+    "record_fingerprint": "99b14f7ca0a75041be5e88206e7fda28269c1358d90b578a68f00b545f587384",
+    "rejected_at": "2026-10-27T14:58:08.235780+00:00"
+  },
+  {
+    "record": {
+      "entity_id": "8926627a-e7cd-4422-8da0-09fd96373c3b",
+      "first_name": "Avery",
+      "last_name": "Shah",
+      "contact_email": "invalid6.example.com",
+      "registration_date": "2022-01-17",
+      "region": "South"
+    },
+    "source_type": "entity",
+    "errors": [
+      {
+        "type": "value_error",
+        "loc": [
+          "contact_email"
+        ],
+        "msg": "value is not a valid email address: An email address must have an @-sign.",
+        "input": "invalid6.example.com",
+        "ctx": {
+          "reason": "An email address must have an @-sign."
+        }
+      }
+    ],
+    "error_message": "value is not a valid email address: An email address must have an @-sign.",
+    "run_id": "35c5ef11-ff04-44e0-9b05-e5c6be92a3a0",
+    "batch_id": "20dcbddd21b9bb86795263a0aa9658ce72fec2aab4fb1760b8755196fb1f56b4",
+    "record_fingerprint": "030b2f25b0c02f062a8a719d64be7e116402f85f2d7830a73ed2c527bf85aebd",
+    "rejected_at": "2026-10-27T14:58:08.235780+00:00"
+  },
+  {
+    "record": {
+      "entity_id": "4ae03629-81ef-49ed-8dac-182fa3ffc934",
+      "first_name": "Jordan",
+      "last_name": "Kim",
+      "contact_email": "invalid7.example.com",
+      "registration_date": "2022-01-18",
+      "region": "east"
+    },
+    "source_type": "entity",
+    "errors": [
+      {
+        "type": "value_error",
+        "loc": [
+          "contact_email"
+        ],
+        "msg": "value is not a valid email address: An email address must have an @-sign.",
+        "input": "invalid7.example.com",
+        "ctx": {
+          "reason": "An email address must have an @-sign."
+        }
+      }
+    ],
+    "error_message": "value is not a valid email address: An email address must have an @-sign.",
+    "run_id": "35c5ef11-ff04-44e0-9b05-e5c6be92a3a0",
+    "batch_id": "20dcbddd21b9bb86795263a0aa9658ce72fec2aab4fb1760b8755196fb1f56b4",
+    "record_fingerprint": "1998da24b527f952523771d24e7abc0e98c3fbbc8984fc68ed62fa37b4911cfe",
+    "rejected_at": "2026-10-27T14:58:08.235780+00:00"
+  },
+  {
+    "record": {
+      "entity_id": "c21828ef-66fc-48a2-a3f9-2dad1c015841",
+      "first_name": "Morgan",
+      "last_name": "Singh",
+      "contact_email": "invalid8.example.com",
+      "registration_date": "2022-01-19",
+      "region": "West"
+    },
+    "source_type": "entity",
+    "errors": [
+      {
+        "type": "value_error",
+        "loc": [
+          "contact_email"
+        ],
+        "msg": "value is not a valid email address: An email address must have an @-sign.",
+        "input": "invalid8.example.com",
+        "ctx": {
+          "reason": "An email address must have an @-sign."
+        }
+      }
+    ],
+    "error_message": "value is not a valid email address: An email address must have an @-sign.",
+    "run_id": "35c5ef11-ff04-44e0-9b05-e5c6be92a3a0",
+    "batch_id": "20dcbddd21b9bb86795263a0aa9658ce72fec2aab4fb1760b8755196fb1f56b4",
+    "record_fingerprint": "5645056f2d9fde2d2dd4783d947456f5c3b952ec3c98041e20b919608e0e761e",
+    "rejected_at": "2026-10-27T14:58:08.235780+00:00"
+  },
+  {
+    "record": {
+      "entity_id": "dc198958-e51c-4b13-b085-954aa0de60be",
+      "first_name": "Taylor",
+      "last_name": "Patel",
+      "contact_email": "invalid9.example.com",
+      "registration_date": "2022-01-20",
+      "region": "central"
+    },
+    "source_type": "entity",
+    "errors": [
+      {
+        "type": "value_error",
+        "loc": [
+          "contact_email"
+        ],
+        "msg": "value is not a valid email address: An email address must have an @-sign.",
+        "input": "invalid9.example.com",
+        "ctx": {
+          "reason": "An email address must have an @-sign."
+        }
+      }
+    ],
+    "error_message": "value is not a valid email address: An email address must have an @-sign.",
+    "run_id": "35c5ef11-ff04-44e0-9b05-e5c6be92a3a0",
+    "batch_id": "20dcbddd21b9bb86795263a0aa9658ce72fec2aab4fb1760b8755196fb1f56b4",
+    "record_fingerprint": "74399c7f5885a8d4af55a59be6db685caa3d6f815f379734fb4de4f25017baeb",
+    "rejected_at": "2026-10-27T14:58:08.235780+00:00"
+  },
+  {
+    "record": {
+      "entity_id": "17d081fb-6e78-4ce3-8c66-7a989acac4f6",
+      "first_name": "Morgan",
+      "last_name": "Singh",
+      "contact_email": "invalid0.example.com",
+      "registration_date": "2022-01-11",
+      "region": "north"
+    },
+    "source_type": "entity",
+    "errors": [
+      {
+        "type": "value_error",
+        "loc": [
+          "contact_email"
+        ],
+        "msg": "value is not a valid email address: An email address must have an @-sign.",
+        "input": "invalid0.example.com",
+        "ctx": {
+          "reason": "An email address must have an @-sign."
+        }
+      }
+    ],
+    "error_message": "value is not a valid email address: An email address must have an @-sign.",
+    "run_id": "5ed28c7c-a781-4b71-82b1-ec1ecf187747",
+    "batch_id": "5e3b840b3464d503da36362b8487c2705a3384dffe65531eabb600e298d77eb3",
+    "record_fingerprint": "91a38b8467ae7df05a0f55a1c817b2b7797ce73ff532aae92bba06d0e27b1e56",
+    "rejected_at": "2026-10-27T16:28:40.481026+00:00"
+  },
+  {
+    "record": {
+      "entity_id": "20c964f9-97dd-41e3-827f-556a0f1d0403",
+      "first_name": "Taylor",
+      "last_name": "Patel",
+      "contact_email": "invalid1.example.com",
+      "registration_date": "2022-01-12",
+      "region": "South"
+    },
+    "source_type": "entity",
+    "errors": [
+      {
+        "type": "value_error",
+        "loc": [
+          "contact_email"
+        ],
+        "msg": "value is not a valid email address: An email address must have an @-sign.",
+        "input": "invalid1.example.com",
+        "ctx": {
+          "reason": "An email address must have an @-sign."
+        }
+      }
+    ],
+    "error_message": "value is not a valid email address: An email address must have an @-sign.",
+    "run_id": "5ed28c7c-a781-4b71-82b1-ec1ecf187747",
+    "batch_id": "5e3b840b3464d503da36362b8487c2705a3384dffe65531eabb600e298d77eb3",
+    "record_fingerprint": "6af25cc1c9d77a34dcd219f42f2d408b9fdb7a1d3cd8d0bd474c4f0a957cc3f8",
+    "rejected_at": "2026-10-27T16:28:40.481046+00:00"
+  },
+  {
+    "record": {
+      "entity_id": "a57245b9-b070-4270-ac8d-eb66a50b26fe",
+      "first_name": "Avery",
+      "last_name": "Shah",
+      "contact_email": "invalid2.example.com",
+      "registration_date": "2022-01-13",
+      "region": "east"
+    },
+    "source_type": "entity",
+    "errors": [
+      {
+        "type": "value_error",
+        "loc": [
+          "contact_email"
+        ],
+        "msg": "value is not a valid email address: An email address must have an @-sign.",
+        "input": "invalid2.example.com",
+        "ctx": {
+          "reason": "An email address must have an @-sign."
+        }
+      }
+    ],
+    "error_message": "value is not a valid email address: An email address must have an @-sign.",
+    "run_id": "5ed28c7c-a781-4b71-82b1-ec1ecf187747",
+    "batch_id": "5e3b840b3464d503da36362b8487c2705a3384dffe65531eabb600e298d77eb3",
+    "record_fingerprint": "e3d0139fa6b3494cf02093570b98e44ba11fafacf2ef7f8f119fe3b4ab8e3900",
+    "rejected_at": "2026-10-27T16:28:40.481054+00:00"
+  },
+  {
+    "record": {
+      "entity_id": "804f96c1-85db-435c-972e-23662a94a1c9",
+      "first_name": "Jordan",
+      "last_name": "Kim",
+      "contact_email": "invalid3.example.com",
+      "registration_date": "2022-01-14",
+      "region": "West"
+    },
+    "source_type": "entity",
+    "errors": [
+      {
+        "type": "value_error",
+        "loc": [
+          "contact_email"
+        ],
+        "msg": "value is not a valid email address: An email address must have an @-sign.",
+        "input": "invalid3.example.com",
+        "ctx": {
+          "reason": "An email address must have an @-sign."
+        }
+      }
+    ],
+    "error_message": "value is not a valid email address: An email address must have an @-sign.",
+    "run_id": "5ed28c7c-a781-4b71-82b1-ec1ecf187747",
+    "batch_id": "5e3b840b3464d503da36362b8487c2705a3384dffe65531eabb600e298d77eb3",
+    "record_fingerprint": "8041e14bb7b0f1f6377c466140212bfc279bc50216230f72cf89704bdac497d0",
+    "rejected_at": "2026-10-27T16:28:40.481060+00:00"
+  },
+  {
+    "record": {
+      "entity_id": "78623004-80f0-4798-87dd-05123e9da4e8",
+      "first_name": "Morgan",
+      "last_name": "Singh",
+      "contact_email": "invalid4.example.com",
+      "registration_date": "2022-01-15",
+      "region": "central"
+    },
+    "source_type": "entity",
+    "errors": [
+      {
+        "type": "value_error",
+        "loc": [
+          "contact_email"
+        ],
+        "msg": "value is not a valid email address: An email address must have an @-sign.",
+        "input": "invalid4.example.com",
+        "ctx": {
+          "reason": "An email address must have an @-sign."
+        }
+      }
+    ],
+    "error_message": "value is not a valid email address: An email address must have an @-sign.",
+    "run_id": "5ed28c7c-a781-4b71-82b1-ec1ecf187747",
+    "batch_id": "5e3b840b3464d503da36362b8487c2705a3384dffe65531eabb600e298d77eb3",
+    "record_fingerprint": "6ec7cfc2688edac37a4615798f114a5bc9fed58e3b13c87d3f01895cf54f29ae",
+    "rejected_at": "2026-10-27T16:28:40.481066+00:00"
+  },
+  {
+    "record": {
+      "entity_id": "1d63425e-0730-43c1-a590-49fc2409af4e",
+      "first_name": "Taylor",
+      "last_name": "Patel",
+      "contact_email": "invalid5.example.com",
+      "registration_date": "2022-01-16",
+      "region": "north"
+    },
+    "source_type": "entity",
+    "errors": [
+      {
+        "type": "value_error",
+        "loc": [
+          "contact_email"
+        ],
+        "msg": "value is not a valid email address: An email address must have an @-sign.",
+        "input": "invalid5.example.com",
+        "ctx": {
+          "reason": "An email address must have an @-sign."
+        }
+      }
+    ],
+    "error_message": "value is not a valid email address: An email address must have an @-sign.",
+    "run_id": "5ed28c7c-a781-4b71-82b1-ec1ecf187747",
+    "batch_id": "5e3b840b3464d503da36362b8487c2705a3384dffe65531eabb600e298d77eb3",
+    "record_fingerprint": "99b14f7ca0a75041be5e88206e7fda28269c1358d90b578a68f00b545f587384",
+    "rejected_at": "2026-10-27T16:28:40.481076+00:00"
+  },
+  {
+    "record": {
+      "entity_id": "8926627a-e7cd-4422-8da0-09fd96373c3b",
+      "first_name": "Avery",
+      "last_name": "Shah",
+      "contact_email": "invalid6.example.com",
+      "registration_date": "2022-01-17",
+      "region": "South"
+    },
+    "source_type": "entity",
+    "errors": [
+      {
+        "type": "value_error",
+        "loc": [
+          "contact_email"
+        ],
+        "msg": "value is not a valid email address: An email address must have an @-sign.",
+        "input": "invalid6.example.com",
+        "ctx": {
+          "reason": "An email address must have an @-sign."
+        }
+      }
+    ],
+    "error_message": "value is not a valid email address: An email address must have an @-sign.",
+    "run_id": "5ed28c7c-a781-4b71-82b1-ec1ecf187747",
+    "batch_id": "5e3b840b3464d503da36362b8487c2705a3384dffe65531eabb600e298d77eb3",
+    "record_fingerprint": "030b2f25b0c02f062a8a719d64be7e116402f85f2d7830a73ed2c527bf85aebd",
+    "rejected_at": "2026-10-27T16:28:40.481083+00:00"
+  },
+  {
+    "record": {
+      "entity_id": "4ae03629-81ef-49ed-8dac-182fa3ffc934",
+      "first_name": "Jordan",
+      "last_name": "Kim",
+      "contact_email": "invalid7.example.com",
+      "registration_date": "2022-01-18",
+      "region": "east"
+    },
+    "source_type": "entity",
+    "errors": [
+      {
+        "type": "value_error",
+        "loc": [
+          "contact_email"
+        ],
+        "msg": "value is not a valid email address: An email address must have an @-sign.",
+        "input": "invalid7.example.com",
+        "ctx": {
+          "reason": "An email address must have an @-sign."
+        }
+      }
+    ],
+    "error_message": "value is not a valid email address: An email address must have an @-sign.",
+    "run_id": "5ed28c7c-a781-4b71-82b1-ec1ecf187747",
+    "batch_id": "5e3b840b3464d503da36362b8487c2705a3384dffe65531eabb600e298d77eb3",
+    "record_fingerprint": "1998da24b527f952523771d24e7abc0e98c3fbbc8984fc68ed62fa37b4911cfe",
+    "rejected_at": "2026-10-27T16:28:40.481092+00:00"
+  },
+  {
+    "record": {
+      "entity_id": "c21828ef-66fc-48a2-a3f9-2dad1c015841",
+      "first_name": "Morgan",
+      "last_name": "Singh",
+      "contact_email": "invalid8.example.com",
+      "registration_date": "2022-01-19",
+      "region": "West"
+    },
+    "source_type": "entity",
+    "errors": [
+      {
+        "type": "value_error",
+        "loc": [
+          "contact_email"
+        ],
+        "msg": "value is not a valid email address: An email address must have an @-sign.",
+        "input": "invalid8.example.com",
+        "ctx": {
+          "reason": "An email address must have an @-sign."
+        }
+      }
+    ],
+    "error_message": "value is not a valid email address: An email address must have an @-sign.",
+    "run_id": "5ed28c7c-a781-4b71-82b1-ec1ecf187747",
+    "batch_id": "5e3b840b3464d503da36362b8487c2705a3384dffe65531eabb600e298d77eb3",
+    "record_fingerprint": "5645056f2d9fde2d2dd4783d947456f5c3b952ec3c98041e20b919608e0e761e",
+    "rejected_at": "2026-10-27T16:28:40.481101+00:00"
+  },
+  {
+    "record": {
+      "entity_id": "dc198958-e51c-4b13-b085-954aa0de60be",
+      "first_name": "Taylor",
+      "last_name": "Patel",
+      "contact_email": "invalid9.example.com",
+      "registration_date": "2022-01-20",
+      "region": "central"
+    },
+    "source_type": "entity",
+    "errors": [
+      {
+        "type": "value_error",
+        "loc": [
+          "contact_email"
+        ],
+        "msg": "value is not a valid email address: An email address must have an @-sign.",
+        "input": "invalid9.example.com",
+        "ctx": {
+          "reason": "An email address must have an @-sign."
+        }
+      }
+    ],
+    "error_message": "value is not a valid email address: An email address must have an @-sign.",
+    "run_id": "5ed28c7c-a781-4b71-82b1-ec1ecf187747",
+    "batch_id": "5e3b840b3464d503da36362b8487c2705a3384dffe65531eabb600e298d77eb3",
+    "record_fingerprint": "74399c7f5885a8d4af55a59be6db685caa3d6f815f379734fb4de4f25017baeb",
+    "rejected_at": "2026-10-27T16:28:40.481106+00:00"
+  }
+]

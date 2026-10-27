@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.test-work/
+.coverage
+htmlcov/
+*.egg-info/
+*.py[cod]
+data/warehouse.duckdb*
+data/logs/

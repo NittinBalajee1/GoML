@@ -1,0 +1,16 @@
+entity_id,first_name,last_name,currency,total_amount
+3f928736-ad8c-49ff-94d3-f80d089b7acc,Taylor,Patel,EUR,4381.85
+3c2372d2-0c92-484c-bed7-7b269140867f,Avery,Shah,EUR,3641.91
+289812ee-52c5-4a1c-8043-36127b639043,Avery,Shah,EUR,3276.83
+cea67291-0de2-436b-b7d5-ad383521524d,Morgan,Singh,EUR,3241.95
+258e65e2-9d0c-4208-99a7-097d653f93e1,Jordan,Kim,EUR,3181.51
+5785d239-48fb-4dc8-a4b1-a468e4004c0e,Avery,Shah,GBP,3832.46
+f3422723-eb4a-4cad-ac79-567ea073f108,Avery,Shah,GBP,3507.50
+98cd7f2d-1ef2-4e35-b910-0519c175edc3,Taylor,Patel,GBP,3332.08
+86381654-5729-473d-b970-262daf8fd64f,Morgan,Singh,GBP,3215.76
+d291dbf4-6176-411d-8d49-74c436286a22,Taylor,Patel,GBP,3046.23
+d053c595-a2b5-4f65-8286-6a7634ea373e,Morgan,Singh,USD,3728.30
+409e27aa-2c38-4ec9-9ec1-aec99b83b267,Morgan,Singh,USD,3695.12
+fc10cf55-8bfd-4693-8f55-645d26c4538e,Jordan,Kim,USD,3314.79
+6ee631c5-2b06-4b50-b9fa-34b08bc687e6,Avery,Shah,USD,3086.02
+6e954bd5-9bde-423e-a3ad-f4f222933f52,Taylor,Patel,USD,2974.84

@@ -1,0 +1,6 @@
+duckdb==1.2.2
+pydantic[email]==2.10.6
+streamlit==1.65.0
+pytest==8.3.5
+pytest-cov==6.0.0
+ruff==0.9.10

@@ -1,0 +1,21 @@
+services:
+  pipeline:
+    build: .
+    volumes:
+      - ./data:/app/data
+    environment:
+      GOML_LOG_LEVEL: INFO
+    healthcheck:
+      test: ["CMD", "goml-pipeline", "health", "--root", "/app"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+  dashboard:
+    build: .
+    command: ["streamlit", "run", "dashboard.py", "--server.address=0.0.0.0", "--server.port=8501"]
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./data:/app/data
+    environment:
+      GOML_LOG_LEVEL: INFO

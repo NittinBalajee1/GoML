@@ -1,0 +1,13 @@
+category,currency,transaction_count,total_amount
+Digital,EUR,83,50817.07
+Digital,GBP,83,46409.72
+Digital,USD,84,51425.08
+Health,EUR,83,51212.63
+Health,GBP,83,49854.42
+Health,USD,83,47671.30
+Retail,EUR,83,49121.22
+Retail,GBP,83,49713.01
+Retail,USD,83,53892.84
+Travel,EUR,83,48160.92
+Travel,GBP,83,43188.99
+Travel,USD,83,51220.10

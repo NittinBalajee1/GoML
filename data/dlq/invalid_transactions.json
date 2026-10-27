@@ -1,0 +1,338 @@
+[
+  {
+    "record": {
+      "transaction_id": "416da1c0-66a8-4c57-874e-74c20bc6f779",
+      "entity_id": "4ecaa71a-7031-4553-a423-5e7d75090f11",
+      "category": "Retail",
+      "transaction_amount": -12.5,
+      "currency": "USD",
+      "timestamp": "2026-01-01T00:00:00+00:00"
+    },
+    "source_type": "transaction",
+    "errors": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -12.5,
+        "ctx": {
+          "gt": "0"
+        }
+      }
+    ],
+    "error_message": "Input should be greater than 0",
+    "run_id": "9be15690-841f-4fdc-a170-e9b9a31f9ff8",
+    "batch_id": "7ff7e3558a5406cd5e6e2fa72ce8d7ed0097426ab8f49075f04e201d1590562b",
+    "record_fingerprint": "5ee7a157e7c0a03fe2ea5584cc074cc2dbd467b9cff9a188c4c818b0f5b3dbbb",
+    "rejected_at": "2026-10-27T14:45:37.277230+00:00"
+  },
+  {
+    "record": {
+      "transaction_id": "e373f37f-3cfc-4cf8-80b5-b1a75cdcd041",
+      "entity_id": null,
+      "category": "Travel",
+      "transaction_amount": 333.66,
+      "currency": "EUR",
+      "timestamp": "2026-01-01T05:00:00+00:00"
+    },
+    "source_type": "transaction",
+    "errors": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ],
+    "error_message": "UUID input should be a string, bytes or UUID object",
+    "run_id": "9be15690-841f-4fdc-a170-e9b9a31f9ff8",
+    "batch_id": "7ff7e3558a5406cd5e6e2fa72ce8d7ed0097426ab8f49075f04e201d1590562b",
+    "record_fingerprint": "5ed0e329fafe143fdecb0562fee64b897d6f29cffb07d26e0640481b5375607a",
+    "rejected_at": "2026-10-27T14:45:37.277230+00:00"
+  },
+  {
+    "record": {
+      "transaction_id": "6c93206b-4c70-41eb-bd29-79f9aa4b7718",
+      "entity_id": "ea111e63-7516-4101-b9f5-d15304ca4157",
+      "category": "Health",
+      "transaction_amount": 171.75,
+      "currency": "CAD",
+      "timestamp": "2026-01-01T10:00:00+00:00"
+    },
+    "source_type": "transaction",
+    "errors": [
+      {
+        "type": "literal_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Input should be 'USD', 'EUR' or 'GBP'",
+        "input": "CAD",
+        "ctx": {
+          "expected": "'USD', 'EUR' or 'GBP'"
+        }
+      }
+    ],
+    "error_message": "Input should be 'USD', 'EUR' or 'GBP'",
+    "run_id": "9be15690-841f-4fdc-a170-e9b9a31f9ff8",
+    "batch_id": "7ff7e3558a5406cd5e6e2fa72ce8d7ed0097426ab8f49075f04e201d1590562b",
+    "record_fingerprint": "a6e8c92f5610d06262f7185aa02aab6104fafb324dfcbf00a1c5a6c126d19304",
+    "rejected_at": "2026-10-27T14:45:37.277230+00:00"
+  },
+  {
+    "record": {
+      "transaction_id": "416da1c0-66a8-4c57-874e-74c20bc6f779",
+      "entity_id": "4ecaa71a-7031-4553-a423-5e7d75090f11",
+      "category": "Retail",
+      "transaction_amount": -12.5,
+      "currency": "USD",
+      "timestamp": "2026-05-04T00:00:00+00:00"
+    },
+    "source_type": "transaction",
+    "errors": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -12.5,
+        "ctx": {
+          "gt": "0"
+        }
+      }
+    ],
+    "error_message": "Input should be greater than 0",
+    "run_id": "0499706b-f976-43c0-98bf-51f18e3fd6d0",
+    "batch_id": "20dcbddd21b9bb86795263a0aa9658ce72fec2aab4fb1760b8755196fb1f56b4",
+    "record_fingerprint": "c7431db3ad7a783bb0cea378910d44106b0781940445b54a8ec5a2b848f27090",
+    "rejected_at": "2026-10-27T14:49:33.241783+00:00"
+  },
+  {
+    "record": {
+      "transaction_id": "e373f37f-3cfc-4cf8-80b5-b1a75cdcd041",
+      "entity_id": null,
+      "category": "Travel",
+      "transaction_amount": 333.66,
+      "currency": "EUR",
+      "timestamp": "2026-05-04T05:00:00+00:00"
+    },
+    "source_type": "transaction",
+    "errors": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ],
+    "error_message": "UUID input should be a string, bytes or UUID object",
+    "run_id": "0499706b-f976-43c0-98bf-51f18e3fd6d0",
+    "batch_id": "20dcbddd21b9bb86795263a0aa9658ce72fec2aab4fb1760b8755196fb1f56b4",
+    "record_fingerprint": "3023bcbb1494ecf2c017f84f23e5aacd8a058a118e5dca6554dbe1e2c54efe35",
+    "rejected_at": "2026-10-27T14:49:33.241783+00:00"
+  },
+  {
+    "record": {
+      "transaction_id": "6c93206b-4c70-41eb-bd29-79f9aa4b7718",
+      "entity_id": "ea111e63-7516-4101-b9f5-d15304ca4157",
+      "category": "Health",
+      "transaction_amount": 171.75,
+      "currency": "CAD",
+      "timestamp": "2026-05-04T10:00:00+00:00"
+    },
+    "source_type": "transaction",
+    "errors": [
+      {
+        "type": "literal_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Input should be 'USD', 'EUR' or 'GBP'",
+        "input": "CAD",
+        "ctx": {
+          "expected": "'USD', 'EUR' or 'GBP'"
+        }
+      }
+    ],
+    "error_message": "Input should be 'USD', 'EUR' or 'GBP'",
+    "run_id": "0499706b-f976-43c0-98bf-51f18e3fd6d0",
+    "batch_id": "20dcbddd21b9bb86795263a0aa9658ce72fec2aab4fb1760b8755196fb1f56b4",
+    "record_fingerprint": "11f05bbdddcae18b4ef94234a71b497bc64cb42501305dbac9be0901dc37ad3b",
+    "rejected_at": "2026-10-27T14:49:33.241783+00:00"
+  },
+  {
+    "record": {
+      "transaction_id": "416da1c0-66a8-4c57-874e-74c20bc6f779",
+      "entity_id": "4ecaa71a-7031-4553-a423-5e7d75090f11",
+      "category": "Retail",
+      "transaction_amount": -12.5,
+      "currency": "USD",
+      "timestamp": "2026-05-04T00:00:00+00:00"
+    },
+    "source_type": "transaction",
+    "errors": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -12.5,
+        "ctx": {
+          "gt": "0"
+        }
+      }
+    ],
+    "error_message": "Input should be greater than 0",
+    "run_id": "35c5ef11-ff04-44e0-9b05-e5c6be92a3a0",
+    "batch_id": "20dcbddd21b9bb86795263a0aa9658ce72fec2aab4fb1760b8755196fb1f56b4",
+    "record_fingerprint": "c7431db3ad7a783bb0cea378910d44106b0781940445b54a8ec5a2b848f27090",
+    "rejected_at": "2026-10-27T14:58:08.244204+00:00"
+  },
+  {
+    "record": {
+      "transaction_id": "e373f37f-3cfc-4cf8-80b5-b1a75cdcd041",
+      "entity_id": null,
+      "category": "Travel",
+      "transaction_amount": 333.66,
+      "currency": "EUR",
+      "timestamp": "2026-05-04T05:00:00+00:00"
+    },
+    "source_type": "transaction",
+    "errors": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ],
+    "error_message": "UUID input should be a string, bytes or UUID object",
+    "run_id": "35c5ef11-ff04-44e0-9b05-e5c6be92a3a0",
+    "batch_id": "20dcbddd21b9bb86795263a0aa9658ce72fec2aab4fb1760b8755196fb1f56b4",
+    "record_fingerprint": "3023bcbb1494ecf2c017f84f23e5aacd8a058a118e5dca6554dbe1e2c54efe35",
+    "rejected_at": "2026-10-27T14:58:08.244204+00:00"
+  },
+  {
+    "record": {
+      "transaction_id": "6c93206b-4c70-41eb-bd29-79f9aa4b7718",
+      "entity_id": "ea111e63-7516-4101-b9f5-d15304ca4157",
+      "category": "Health",
+      "transaction_amount": 171.75,
+      "currency": "CAD",
+      "timestamp": "2026-05-04T10:00:00+00:00"
+    },
+    "source_type": "transaction",
+    "errors": [
+      {
+        "type": "literal_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Input should be 'USD', 'EUR' or 'GBP'",
+        "input": "CAD",
+        "ctx": {
+          "expected": "'USD', 'EUR' or 'GBP'"
+        }
+      }
+    ],
+    "error_message": "Input should be 'USD', 'EUR' or 'GBP'",
+    "run_id": "35c5ef11-ff04-44e0-9b05-e5c6be92a3a0",
+    "batch_id": "20dcbddd21b9bb86795263a0aa9658ce72fec2aab4fb1760b8755196fb1f56b4",
+    "record_fingerprint": "11f05bbdddcae18b4ef94234a71b497bc64cb42501305dbac9be0901dc37ad3b",
+    "rejected_at": "2026-10-27T14:58:08.244204+00:00"
+  },
+  {
+    "record": {
+      "transaction_id": "416da1c0-66a8-4c57-874e-74c20bc6f779",
+      "entity_id": "4ecaa71a-7031-4553-a423-5e7d75090f11",
+      "category": "Retail",
+      "transaction_amount": -12.5,
+      "currency": "USD",
+      "timestamp": "2026-05-04T00:00:00+00:00"
+    },
+    "source_type": "transaction",
+    "errors": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -12.5,
+        "ctx": {
+          "gt": "0"
+        }
+      }
+    ],
+    "error_message": "Input should be greater than 0",
+    "run_id": "5ed28c7c-a781-4b71-82b1-ec1ecf187747",
+    "batch_id": "5e3b840b3464d503da36362b8487c2705a3384dffe65531eabb600e298d77eb3",
+    "record_fingerprint": "c7431db3ad7a783bb0cea378910d44106b0781940445b54a8ec5a2b848f27090",
+    "rejected_at": "2026-10-27T16:28:40.516574+00:00"
+  },
+  {
+    "record": {
+      "transaction_id": "e373f37f-3cfc-4cf8-80b5-b1a75cdcd041",
+      "entity_id": null,
+      "category": "Travel",
+      "transaction_amount": 333.66,
+      "currency": "EUR",
+      "timestamp": "2026-05-04T05:00:00+00:00"
+    },
+    "source_type": "transaction",
+    "errors": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ],
+    "error_message": "UUID input should be a string, bytes or UUID object",
+    "run_id": "5ed28c7c-a781-4b71-82b1-ec1ecf187747",
+    "batch_id": "5e3b840b3464d503da36362b8487c2705a3384dffe65531eabb600e298d77eb3",
+    "record_fingerprint": "3023bcbb1494ecf2c017f84f23e5aacd8a058a118e5dca6554dbe1e2c54efe35",
+    "rejected_at": "2026-10-27T16:28:40.516596+00:00"
+  },
+  {
+    "record": {
+      "transaction_id": "6c93206b-4c70-41eb-bd29-79f9aa4b7718",
+      "entity_id": "ea111e63-7516-4101-b9f5-d15304ca4157",
+      "category": "Health",
+      "transaction_amount": 171.75,
+      "currency": "CAD",
+      "timestamp": "2026-05-04T10:00:00+00:00"
+    },
+    "source_type": "transaction",
+    "errors": [
+      {
+        "type": "literal_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Input should be 'USD', 'EUR' or 'GBP'",
+        "input": "CAD",
+        "ctx": {
+          "expected": "'USD', 'EUR' or 'GBP'"
+        }
+      }
+    ],
+    "error_message": "Input should be 'USD', 'EUR' or 'GBP'",
+    "run_id": "5ed28c7c-a781-4b71-82b1-ec1ecf187747",
+    "batch_id": "5e3b840b3464d503da36362b8487c2705a3384dffe65531eabb600e298d77eb3",
+    "record_fingerprint": "11f05bbdddcae18b4ef94234a71b497bc64cb42501305dbac9be0901dc37ad3b",
+    "rejected_at": "2026-10-27T16:28:40.516603+00:00"
+  }
+]

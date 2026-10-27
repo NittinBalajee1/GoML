@@ -1,0 +1,6 @@
+region,entity_count,active_entities,transaction_count
+CENTRAL,40,39,204
+EAST,40,40,217
+NORTH,40,40,199
+SOUTH,40,39,187
+WEST,40,40,190

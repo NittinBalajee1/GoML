@@ -1,0 +1,54 @@
+{
+  "run_id": "2f557e86-48ed-4f70-873c-4e9632a32254",
+  "generated_at": "2026-10-27T16:46:41.281330+00:00",
+  "queries": {
+    "monthly_revenue_by_category": {
+      "file": "monthly_revenue_by_category.csv",
+      "rows": 12
+    },
+    "top_regions_average_per_entity": {
+      "file": "top_regions_average_per_entity.csv",
+      "rows": 15
+    },
+    "transaction_count_amount_by_region": {
+      "file": "transaction_count_amount_by_region.csv",
+      "rows": 15
+    },
+    "monthly_transaction_volume": {
+      "file": "monthly_transaction_volume.csv",
+      "rows": 21
+    },
+    "top_entities_by_amount": {
+      "file": "top_entities_by_amount.csv",
+      "rows": 15
+    },
+    "category_distribution": {
+      "file": "category_distribution.csv",
+      "rows": 12
+    },
+    "daily_transaction_activity": {
+      "file": "daily_transaction_activity.csv",
+      "rows": 624
+    },
+    "new_entity_registrations_by_month": {
+      "file": "new_entity_registrations_by_month.csv",
+      "rows": 35
+    },
+    "transaction_amounts_by_currency": {
+      "file": "transaction_amounts_by_currency.csv",
+      "rows": 3
+    },
+    "average_amount_and_count_by_entity": {
+      "file": "average_amount_and_count_by_entity.csv",
+      "rows": 492
+    },
+    "entity_activity_distribution": {
+      "file": "entity_activity_distribution.csv",
+      "rows": 5
+    },
+    "data_quality_summary": {
+      "file": "data_quality_summary.csv",
+      "rows": 1
+    }
+  }
+}
