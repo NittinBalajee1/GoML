@@ -9,3 +9,9 @@ htmlcov/
 *.py[cod]
 data/warehouse.duckdb*
 data/logs/
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+.DS_Store
+Thumbs.db

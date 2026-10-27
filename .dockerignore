@@ -3,4 +3,14 @@
 __pycache__
 .pytest_cache
 .ruff_cache
+.test-work
+.coverage
+htmlcov
+*.egg-info
+*.py[cod]
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+Data_Engineering_Case_Study_goML.docx
 data/warehouse.duckdb*
